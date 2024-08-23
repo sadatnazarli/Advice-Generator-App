@@ -12,7 +12,7 @@ This is a simple Advice Generator App built with HTML, CSS, and JavaScript. It f
 
 ## Live Demo
 
-Check out the live demo on GitHub Pages: [Advice Generator App](https://advicegenerator-app-az.netlify.app/)
+Check out the live demo: [Advice Generator App](https://advicegenerator-app-az.netlify.app/)
 
 ## Screenshots
 
