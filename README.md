@@ -20,10 +20,6 @@ Check out the live demo: [Advice Generator App](https://advicegenerator-app-az.n
 
 ![Desktop Design](./design/desktop-preview.jpg)
 
-### Mobile Design
-
-![Mobile Design](./design/mobile-design.jpg)
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project running on your local machine.
