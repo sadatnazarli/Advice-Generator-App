@@ -14,12 +14,6 @@ This is a simple Advice Generator App built with HTML, CSS, and JavaScript. It f
 
 Check out the live demo: [Advice Generator App](https://advicegenerator-app-az.netlify.app/)
 
-## Screenshots
-
-### Desktop Design
-
-![Desktop Design](./design/desktop-preview.jpg)
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project running on your local machine.
