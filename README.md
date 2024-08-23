@@ -12,7 +12,7 @@ This is a simple Advice Generator App built with HTML, CSS, and JavaScript. It f
 
 ## Live Demo
 
-Check out the live demo on GitHub Pages: [Advice Generator App](https://your-username.github.io/advice-generator-app/)
+Check out the live demo on GitHub Pages: [Advice Generator App](https://advicegenerator-app-az.netlify.app/)
 
 ## Screenshots
 
@@ -22,7 +22,7 @@ Check out the live demo on GitHub Pages: [Advice Generator App](https://your-use
 
 ### Mobile Design
 
-![Mobile Design](./design/mobile-preview.jpg)
+![Mobile Design](./design/mobile-design.jpg)
 
 ## Getting Started
 
@@ -34,12 +34,11 @@ Make sure you have the following installed:
 
 - A modern web browser (Google Chrome, Firefox, etc.)
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (optional, for development)
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/advice-generator-app.git
+   git clone https://github.com/sadatnazarli/Advice-Generator-App.git
    ```
